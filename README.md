@@ -1,5 +1,5 @@
 # <ins>Kafeyl Website</ins>
-<small><p style="color:Gray;">-website by Kafeyl</p></small>
+<small>-website by Kafeyl</small>
 
 
 I will use this website to show off what I make
