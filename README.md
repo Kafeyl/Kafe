@@ -1,5 +1,2 @@
-# <ins>Kafeyl Website</ins>
-<small>-website by Kafeyl</small>
 
-
-I will use this website to show off what I make
+## <ins>I will use this website to show what I make.</ins>
