@@ -1,3 +1,10 @@
 ---
 ---
 @import "{{ site.theme }}";
+
+.wrapper {
+    background-color: #18181F; /* Replace with your preferred hex color */
+    padding: 30px;             /* Adds space between text and the container edge */
+    border-radius: 8px;        /* Optional: rounds the corners of your container */
+    box-shadow: 0 4px 15px rgba(0,0,0,0.5); /* Optional: adds a subtle shadow depth */
+}
